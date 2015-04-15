@@ -1,5 +1,5 @@
 {
-    "name":         "cystbear/authorizenet-php-sdk",
+    "name":         "carlosdanielmou/authorizenet-php-sdk",
     "description":  "AuthorizeNet PHP-SDK Reloaded for PHP 5.3+",
     "keywords":     ["authorize.net","ecommerce","payment"],
     "homepage":     "http://developer.authorize.net/downloads/",
@@ -13,6 +13,10 @@
         {
             "name":      "Andy Baird",
             "email":     "andybaird@gmail.com"
+        },
+        {
+            "name":      "carlos",
+            "email":     "cmourino@digbang.com"
         }
     ],
 
